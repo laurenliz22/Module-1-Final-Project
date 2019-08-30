@@ -27,4 +27,4 @@ View: (need more understanding behind this feature)
 We recommend the sales staff focus mostly on homes that are larger in size (with comparable neighbors), have a higher condition rating, were recently renovated, and are located on the water within the cities of Bellevue, Issaquah, Renton and Kirkland.  We also recommend the sales staff focus on homes with larger views, however as mentioned we need more understanding around this feature to be able to dive any deeper into what this entails. 
 
 ## Location of Analysis
-The location of the analysis can be found within the dsc-v2-mod1-final-project-online-ds-ft-081219 folder here "student.ipynb"
+The location of the analysis can be found here: dsc-v2-mod1-final-project-online-ds-ft-081219/student.ipynb
